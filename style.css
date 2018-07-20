@@ -1,0 +1,42 @@
+body {
+      /*background-color: lightblue;*/
+      font-size: 200%;
+    }
+    
+     .jumbotron{
+      font-size: 300%;
+      color: black;
+     font-family: 'Poiret One', cursive;
+    
+      background-color: lightblue;
+    }
+    
+   h1 {
+     font-family: 'Fredoka One', cursive;
+      color: red;
+      font-size: 300%;
+      
+      
+    }
+    
+    h2 {
+      color:red;
+      font-family: 'Fredoka One', cursive;
+      font-size:200%;
+    }
+    h4 {
+      font-size:150%;
+      color:blue;
+      font-family: 'Sintony', sans-serif;
+      
+    }   
+    
+  h5 {
+    font-size: 100%;
+    
+    
+  }  
+    
+    
+    
+    
